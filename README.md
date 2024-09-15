@@ -1,27 +1,43 @@
-# H1
+# Nicholas Sakarellos
 
-## H2
+## EE 322 
 
-### H3
+### Design VI
 
-**bold text**
+---
 
-*italicized text*
+**Look, these words are bold!!!**
 
-> blockquote
+---
 
-1. First item
-2. Second item
-3. Third item
+*And these words are italicized!!!*
 
-- First item
-- Second item
-- Third item
+---
+
+> Aren't blockquotes just awesome :)
+
+---
+
+Shopping list:
+1. Eggs
+2. Milk
+3. Bacon
+
+---
+
+Objectives for the coming year:   
+- Take and pass FE/PE Exams
+- Gain hours towards electrical license
+- Make Kevin Lu proud!!!
+
+---
 
 `code`
 
 ---
 
-[Not Suspicious](https://youtu.be/dQw4w9WgXcQ0)
+[Not A Suspicious Link](https://youtu.be/dQw4w9WgXcQ0)
+
+---
 
 ![cat](https://github.com/user-attachments/assets/0aa8a0b1-d41d-4d57-bdc5-7a5e5779ea45)
