@@ -24,4 +24,4 @@
 
 [Not Suspicious](https://youtu.be/dQw4w9WgXcQ0)
 
-![alt text](image.jpg)
+![CAT](image.jpg)
