@@ -24,4 +24,4 @@
 
 [Not Suspicious](https://youtu.be/dQw4w9WgXcQ0)
 
-![CAT](image.jpg)
+![cat](https://github.com/user-attachments/assets/0aa8a0b1-d41d-4d57-bdc5-7a5e5779ea45)
